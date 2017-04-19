@@ -1,0 +1,2 @@
+# I2C_BH1750FVI
+Use PC control BH1750FVI light intensity detection sensor module via Ginkgo USB-I2C adapter to achieve light intensity measurement and data acquisition, display light intensity data values on Visual Studio.

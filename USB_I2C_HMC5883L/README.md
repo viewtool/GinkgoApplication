@@ -1,0 +1,2 @@
+# I2C_HMC5883L
+Use PC control HMC5883L Triple Axis Compass Magnetometer Module via Ginkgo USB-I2C adapter to achieve Positioning information measurement and data acquisition, display Triple Axis data values on Visual Studio.

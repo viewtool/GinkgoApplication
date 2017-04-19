@@ -1,0 +1,2 @@
+# ADC_Pulsesensor
+Use Android phone control Pulse heart rate detection Module via Ginkgo USB-SPI adapter to collect heart rate pulse data for the fingers, display heart rate pulse data values and waveforms on smartphone.
